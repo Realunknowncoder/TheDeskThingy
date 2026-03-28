@@ -1,53 +1,48 @@
-# 📦 My Package
+# 📦 TheDesktopThingy
 
-(add your badges here)
-
-> *Your documentation is a direct reflection of your software, so hold it to the same standards.*
+> *A macro pad for everyday work!*
 
 
-## 🌟 Highlights
+## 🌟 Features
 
-- Some functionality made easy!
-- This problem handled
-- etc.
+- Have a volume control
+- Built in light for night work with adjustable luminosity
+- Can include up to 6 shortcuts
 
 
 ## ℹ️ Overview
 
-A paragraph explaining your work, who you are, and why you made it.
+Hi, I'm Yassine Moustarziq and while I was sitting in my desk in my dorm. I realized that it's too dim and that I should buy a desk lamp! But desk lamp are stationary, too big and need an outlit! Plus, it's just a lamp!
+So I made TheDesktopThingy not just to solve my light problem but also as a shortcut pad for the commands I use everyday like Ctrl+C, Ctrl+V .....
+
+## ⬇️ Components:
+
+For the components needed you can find them in the component list, the prices are in rand but the final one is in dollars!
+Note that for the WorldWide some links doesn't work but you can easily find it if you searched on AliExpress! Sorry for the inconvenient!
+
+## ⬇️ Schematics:
+
+For the scheamtics, it's pretty easy and you just have to follow the diagram in the schematics file!
+Note that there is no PCB currently!
+
+For the pins:
+For the LED: 
+- S to 5 pin
+- - + to VCC
+- - to GND
+For Button 1: - D to 2 pin - + to VCC - - to GND
+For Button 2: - D to 3 pin - + to VCC - - to GND
+For Button 3: - D to 4 pin - + to VCC - - to GND
+For Slider 1: - S to A0 - VCC to VCC - GND to GND
+For Slider 2: - S to A1 - VCC to VCC - GND to GND
 
 
-### ✍️ Authors
+## ⬇️ Code:
 
-Mention who you are and link to your GitHub or organization's website.
+For this project to work, you need to use the DIH-Projects library or check the file in the Code folder and upload it using your Arduino IDE!
 
+## ⬇️ 3D Model:
 
-## 🚀 Usage
-
-*Show off what your software looks like in action! Try to limit it to one-liners if possible and don't delve into API specifics.*
-
-```py
->>> import mypackage
->>> mypackage.do_stuff()
-'Oh yeah!'
-```
+Now in the 3D folder you will find the 3D model built for this project. Please note that the model moght need some ajustement if you're using other parts then the one in the South African list so pleae fell free to edit it!
 
 
-## ⬇️ Installation
-
-Simple, understandable installation instructions!
-
-```bash
-pip install my-package
-```
-
-And be sure to specify any other minimum requirements like Python versions or operating systems.
-
-*You may be inclined to add development instructions here, don't.*
-
-
-## 💭 Feedback and Contributing
-
-Add a link to the Discussions tab in your repo and invite users to open issues for bugs/feature requests.
-
-This is also a great place to invite others to contribute in any ways that make sense for your project. Point people to your DEVELOPMENT and/or CONTRIBUTING guides if you have them.
