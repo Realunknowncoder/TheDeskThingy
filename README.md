@@ -20,7 +20,9 @@ So I made TheDesktopThingy not just to solve my light problem but also as a shor
 ## ⬇️ Components:
 
 For the components needed you can find them in the component list, the prices are in rand but the final one is in dollars!
-Note that for the WorldWide some links doesn't work but you can easily find it if you searched on AliExpress! Sorry for the inconvenient!
+There is also another list called BOM for the pcb version! It contains listings from Aliexpress so it's WorldWide!
+Note that for the WorldWide in the pdf file some links doesn't work but you can easily find it if you searched on AliExpress! Sorry for the inconvenient!
+
 
 ## ⬇️ Schematics:
 
