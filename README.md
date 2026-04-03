@@ -1,8 +1,10 @@
 # 📦 TheDesktopThingy
 
-> *A macro pad for everyday work!*
+> *A macro pad mde by students, for students!*
 
-![TheDeskThingy](https://github.com/user-attachments/assets/c885f1e0-8d25-40a1-baa4-4dbc79c152dd)
+
+> ![Poster](https://github.com/user-attachments/assets/3f0ea620-5085-479b-84ac-f95807deb9c2)
+
 
 
 ## 🌟 Features
