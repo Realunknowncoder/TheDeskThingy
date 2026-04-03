@@ -17,9 +17,9 @@ void setup() {
   Keyboard.begin(); 
   pinMode(A0, INPUT);   
   pinMode(A1, INPUT);   
-  pinMode(2, INPUT);   
-  pinMode(3, INPUT);   
-  pinMode(4, INPUT);
+  pinMode(7, INPUT);   
+  pinMode(8, INPUT);   
+  pinMode(9, INPUT);
   pinMode(5, OUTPUT);              
   delay(1000);                             
   for(int a = 0; a < 52; a++) {
@@ -35,9 +35,9 @@ void loop() {
   light = map(light, 0, 1023, 0, 255);
   analogWrite(5, light);
   
-  copy = digitalRead(2);
-  paste = digitalRead(3);
-  reverse = digitalRead(4);
+  copy = digitalRead(7);
+  paste = digitalRead(8);
+  reverse = digitalRead(9);
 
   if (copy == LOW) {
     Keyboard.press(KEY_LEFT_CTRL);
