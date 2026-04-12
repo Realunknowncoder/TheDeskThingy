@@ -3,7 +3,7 @@
 > *A macro pad mde by students, for students!*
 
 
-> ![Poster](https://github.com/user-attachments/assets/3f0ea620-5085-479b-84ac-f95807deb9c2)
+![Poster2](https://github.com/user-attachments/assets/6c12f15d-676f-4337-9ac1-419fe5c54c89)
 
 
 
