@@ -57,8 +57,6 @@ Formats Available: STL - STEP - OBJ
 
 Also, if you want to edit any of the materials here is the link:
 
-[The onshape link](https://cad.onshape.com/documents/4f9122d247750f2f8526ba84/w/78ea33f30bfc9103541f604b/e/c9d34f59ecd57e067f911def?renderMode=0&uiState=69fa5b077daa09ab6bf3a910)
-
 [The Tinkercad link](https://www.tinkercad.com/things/665ioHCWTuF-thedeskthingy?sharecode=COSKvn0KDFqJcXSjEPOFa3eJHB3q1yYtwpXZgLcxdTE)
 
 *Note that the Tinkercad version doesn't have the curved corners*
