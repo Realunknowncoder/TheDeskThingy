@@ -1,4 +1,4 @@
-# 📦 TheDesktopThingy
+# 📦 TheDeskThingy
 
 > *A macro pad mde by students, for students!*
 
